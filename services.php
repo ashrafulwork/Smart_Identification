@@ -15,6 +15,7 @@
     
 <div id ="mid_body">
 <span id ="span">
+    
  <ul>
     <li id = "birth"><a href="nid_input.php" >Birth Certificate</a></li>
     <li id = "nid"><a href="/si/nid/php/nid_input.php">NID</a></li>
