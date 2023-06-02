@@ -1,0 +1,16 @@
+
+<link rel="stylesheet" href="metrorail.css">
+    <div id = "box1">
+<img src="btca.png" id = "btca_logo">
+<img src="rpc_card.png" id = "rpc_card_logo">
+<p id = "h1">ঢাকা পরিবহন সমন্বয় কর্তৃপক্ষ (ডিটিসিএ)</h2>
+<h3>সড়ক পরিবহন ও মহাসড়ক বিভাগ</h3>
+<div id ="heading_4">
+<h4>র‍্যাপিড পাস কার্ড নিবন্ধন ফরম</h4></div>
+<div>
+
+<span class="nid_label"><label>* আবেদনকারীর নাম (ইংরেজিতে):</label></span>
+<span class="name_input"><input type="text" name="NID_No" required /></span><br><br><br><br>
+<br>
+</div>
+</div>

@@ -1,0 +1,87 @@
+
+
+
+
+
+#mid_body{
+
+
+    background-color: black;
+    height: 500px;
+    width: 1890px;
+}
+ul{
+    
+    list-style: none;
+    display: flex;
+   
+    width: 1905px;
+    
+   
+}
+
+
+
+a{
+    align-items: center;
+    text-decoration: none;
+    color: aqua;
+    margin-bottom: 10px;
+}
+
+#birth{
+    align-items: center;
+    padding: 5px;
+    margin-right: 20px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: white;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-right: 50px;
+    font-size: 30px;
+}
+#nid{
+    align-items: center;
+    border-radius: 2px;
+    border-style: solid;
+    margin-right: 20px;
+    padding: 5px;
+    border-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+#brta{
+    align-items: center;
+    border-radius: 2px;
+    border-style: solid;
+    margin-right: 20px;
+    padding: 5px;
+    border-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    font-size: 30px;
+
+    
+}
+#metrorail{
+    align-items: center;
+    border-radius: 2px;
+    border-color: white;
+    margin-right: 20px;
+    border-style: solid;
+    padding: 5px;
+
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-right: 50px;
+}
+a:hover{
+    color: blue;
+}
+

@@ -1,0 +1,32 @@
+h1{
+
+    text-align: center;
+}
+#updatebutton{
+    margin-left: 48%;
+}
+
+#home_updt_database1{
+    
+    
+    text-decoration: none;
+    color: black;
+    margin-left: 742px;
+    margin-top: 300px;
+    font-weight: bold;
+  
+   
+   
+    background-color: aliceblue;
+    
+    
+    
+    
+    
+}
+
+#php_image img {
+    width: 100px;   /* Adjust the desired width */
+    height: 100px;   /* Auto-adjusts the height to maintain aspect ratio */
+  }
+

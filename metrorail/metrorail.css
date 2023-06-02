@@ -1,0 +1,38 @@
+#btca_logo{
+
+    float: left;
+    margin-left: 70px;
+   width: 100px;
+}
+
+#rpc_card_logo{
+
+    float: right;
+    margin-right: 70px;
+    width: 145px;
+}
+
+#h2{
+    margin-left: 560px;
+}
+h3{
+    margin-left: 630px;
+}
+
+h4{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    width: 300px;
+   
+}
+
+#heading_4{
+
+    margin-left: 615px;
+}
+
+
+

@@ -1,0 +1,19 @@
+#title{
+
+    margin-left: 645px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 2px;
+    border-style: solid;
+    padding: 10px;
+    border-color:black ;
+    background-color: black;
+    width:fit-content;
+    color: rgb(2, 188, 255);
+}
+
+.copyright{
+    margin-left: 700px;
+    margin-top: 400px;
+    
+}

@@ -1,0 +1,39 @@
+  
+@media print {
+    
+
+    body *{
+
+        visibility: hidden;
+    }
+
+    .front,.back, .front *{
+
+        visibility: visible;
+    }
+    .back *{
+        visibility: visible;
+
+    }
+
+    .front{
+
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        height: 390px;
+    }
+    #govermentline1{
+
+        margin-left: 70px;
+    }
+          
+
+
+    .back{
+
+        position: absolute;
+        left: 400px;
+        top: 600px;
+    }
+    }  

@@ -1,0 +1,150 @@
+
+
+
+body{
+
+    
+}
+
+.div1{
+   
+    border-style: solid;
+    height: 850px;
+    
+    background-color: rgb(0, 170, 255);
+    width: 1897px;
+
+}
+
+label{
+
+    font-size: 20px;
+}
+h1{
+    margin-left: 890px;
+}
+
+.english_name_label{
+    color: black;
+    font-weight: bold;
+    margin-left: 508px;
+    
+  
+}
+
+
+.name_input{
+    
+    color: black;
+   
+    
+   
+    font-weight: bold;
+  
+   
+    
+    
+}
+.bangla_name_input{
+
+    color: black;
+    margin-left: 450px;
+    font-weight: bold;
+}
+
+.father_name_label{
+    color: black;
+    margin-left: 508px;
+    font-weight: bold;
+}
+
+.mother_name_label{
+    color: black;
+    margin-left: 443px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.dateofbirth_label{
+    margin-left: 508px;
+    font-weight: bold;
+}
+
+.dateofbirth_input{
+    color: black;
+   
+    
+   
+    font-weight: bold;
+}
+.blood_group_label{
+    font-weight: bold;
+    margin-left: 400px;
+}
+.nid_label{
+    margin-left: 800px;
+    font-weight: bold;
+}
+.image_label{
+    margin-left: 420px;
+    font-weight: bold;
+    
+    
+}
+
+
+
+.signature_label{
+    margin-left: 220px;
+    font-weight: bold;
+    
+    
+}
+
+
+
+
+
+.barcode_label{
+    margin-left: 720px;
+    font-weight: bold;
+    
+    
+}
+.submit_output{
+    margin-left: 900px;
+    
+   
+}
+
+.fill_info_message{
+
+    margin-left: 800px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+   
+
+#home_show_database{
+    text-decoration: none;
+    color: black;
+    margin-left: 845px;
+    font-weight: bold;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.newly{
+
+    margin-left: 210px;
+    font-weight: bold;
+    
+}
+
